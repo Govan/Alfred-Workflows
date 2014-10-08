@@ -1,8 +1,7 @@
 # Evernote Styles
 
 The WYSIWYG editor for Evernote.app is an abortion and trying to apply
-consistent styles for headers, important, etc between notes is a massive pain
-using the control bar.
+consistent styles for headers, important, etc between notes is a massive pain.
 
 Instead, let's use AppleScript to extract a text selection, format it with HTML
 and CSS then paste it back into Evernote. This effectively mimics the behaviour
