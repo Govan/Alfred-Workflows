@@ -1,6 +1,5 @@
 # Evernote Styles
 
-
 The WYSIWYG editor for Evernote.app is an abortion and trying to apply
 consistent styles for headers, important, etc between notes is a massive pain
 using the control bar.
@@ -10,13 +9,6 @@ and CSS then paste it back into Evernote. This effectively mimics the behaviour
 of the Style drawer in Pages.app or similar apps.
 
 ![Demo of evernote-styles](./demo.gif)
-
-## Installation
-Using your shortcut manager of choice, bind the scripts in ./shortcuts to key
-commands. I use [FastScripts](http://www.red-sweater.com/fastscripts/) to give
-me app-specific shortcuts.
-
-![FastScripts showing shortcuts for evernote-styles](./readme/FastScripts.jpg)
 
 ## Usage
 Select some text inside an Evernote note, hit your shortcut, done.
