@@ -4,20 +4,20 @@
 
 Some shortcuts for Omnifocus
 
-## Todo View 
+## Todo View ( ⌘-T )
 Toggle both sidebars.
 
-## Morning Review
+## Morning Review ( ⇧⌘-M )
 Focus on the current Morning Review project at swap to Todo View
 
-## Evening Review
+## Evening Review ( ⇧⌘-E )
 Focus on the current Evening Review project at swap to Todo View
 
-## Verify next actions
+## Verify next actions (^-V)
 
-## Clean needs-next-action flags
+## Clean needs-next-action flags ( ⇧^-V )
 
-## Import from plaintext
+## Import from plaintext (of2 import)
 
 # License
 
