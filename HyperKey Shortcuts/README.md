@@ -2,7 +2,7 @@
 
 ![Screenshot of "Hyperkey apps for Alfred"](screenshot.png)
 
-Activate specific apps with ^⌥ +<keys-above-right-hand>
+Activate specific apps with ^⌥ +keys-above-right-hand
 
 # License
 
