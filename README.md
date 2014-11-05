@@ -2,10 +2,10 @@
 
 My workflows for [Alfred](http://www.alfredapp.com/)
 
-## [Evernote Styles](./Evernote%20Style/)
+## [Evernote Styles](./Evernote%20Styles/)
 An attempt to add useful styles to Evernotes.
 
-## [Hyperkey Shortcuts](./Hyperkey%20Shortcuts/)
+## [Hyperkey Shortcuts](./HyperKey%20Shortcuts/)
 App switcher and other global shortcuts using [Brett Terpstra's Hyperkey](http://brettterpstra.com/2012/12/08/a-useful-caps-lock-key/)
 
 ## [OmniFocus Scripts](./OmniFocus%20Scripts/)
