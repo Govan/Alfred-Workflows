@@ -1,14 +1,21 @@
 # Alfred Workflows
 
-## Evernote Styles
+My workflows for [Alfred](http://www.alfredapp.com/)
 
-## Hyperkey Shortcuts
+## [Evernote Styles](./Evernote%20Style/)
+An attempt to add useful styles to Evernotes.
 
-## OmniFocus Scripts
+## [Hyperkey Shortcuts](./Hyperkey%20Shortcuts/)
+App switcher and other global shortcuts using [Brett Terpstra's Hyperkey](http://brettterpstra.com/2012/12/08/a-useful-caps-lock-key/)
 
-## Paste as Plaintext
+## [OmniFocus Scripts](./OmniFocus%20Scripts/)
+Shortcuts and behaviours for Omnifocus, including a Todo view and
+jump-to-daily-review command.
 
-## Smarter Audio Hotkeys for Alfred
+## [Paste as Plaintext](./Paste%20as%20Plaintext)
+Paste the clipboard, minus any styling
+
+## [Smarter Audio Hotkeys](./Smarter%20Audio%20Hotkeys)
 
 Adds play, pause, back and forward hotkeys that support a range of applications.
 The current audio source will be controlled by
